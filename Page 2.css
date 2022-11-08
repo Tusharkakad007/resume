@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Josefin+Sans:wght@500&family=Poppins:ital,wght@0,900;1,800&family=Roboto:wght@400;500;700&family=Source+Sans+Pro:ital,wght@0,300;0,400;1,600&display=swap");
+
+
+
+
+#para{
+    padding-left: 20px;
+    font-size: 20px;
+    color: #2455a3;
+}
+
+#heading{
+    color: #0a3ff0;
+    padding-left: 20px;
+}
+
+#card-para{
+    font-size: 13px;
+    color: #2455a3;
+}
+#card-heading{
+    color: #0a3ff0;
+}
+
+.text-position{
+    text-align: center;
+}
